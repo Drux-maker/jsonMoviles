@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "nombre": "Escape deportivo",
+    "precio": 129.99,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/UZC6LwY.jpg"
+  },
+  {
+    "id": "2",
+    "nombre": "Suspensión baja",
+    "precio": 299.5,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/nVKc3NQ.jpg"
+  },
+  {
+    "id": "3",
+    "nombre": "Llantas negras 17\"",
+    "precio": 499.99,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/ToHnWGR.jpg"
+  },
+  {
+    "id": "4",
+    "nombre": "Luces LED delanteras",
+    "precio": 89.9,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/JrFpKcL.jpg"
+  },
+  {
+    "id": "5",
+    "nombre": "Alerón trasero",
+    "precio": 149,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/8Hc5SpO.jpg"
+  },
+  {
+    "id": "6",
+    "nombre": "Filtro de aire deportivo",
+    "precio": 59.99,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/5XwZJ9T.jpg"
+  },
+  {
+    "id": "7",
+    "nombre": "Intercooler mejorado",
+    "precio": 349.95,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/vLmQx8R.jpg"
+  },
+  {
+    "id": "8",
+    "nombre": "Kit de frenos deportivos",
+    "precio": 599,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/KLpYq7S.jpg"
+  },
+  {
+    "id": "9",
+    "nombre": "Volante deportivo",
+    "precio": 249.99,
+    "categoria": "interior",
+    "imagenUrl": "https://i.imgur.com/MnFgB2h.jpg"
+  },
+  {
+    "id": "10",
+    "nombre": "Asientos bucket",
+    "precio": 799.5,
+    "categoria": "interior",
+    "imagenUrl": "https://i.imgur.com/QzWJk9P.jpg"
+  },
+  {
+    "id": "11",
+    "nombre": "Paragolpes delantero deportivo",
+    "precio": 429.99,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/dFyGt4L.jpg"
+  },
+  {
+    "id": "12",
+    "nombre": "Kit de vinilo para carrocería",
+    "precio": 199.99,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/7bTjHnW.jpg"
+  },
+  {
+    "id": "13",
+    "nombre": "Sistema de sonido premium",
+    "precio": 899,
+    "categoria": "interior",
+    "imagenUrl": "https://i.imgur.com/4mhJY6f.jpg"
+  },
+  {
+    "id": "14",
+    "nombre": "Pedales de aluminio",
+    "precio": 79.95,
+    "categoria": "interior",
+    "imagenUrl": "https://i.imgur.com/9rXkP2Z.jpg"
+  },
+  {
+    "id": "15",
+    "nombre": "Tubo de escape recto",
+    "precio": 179.5,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/3qNnV7T.jpg"
+  },
+  {
+    "id": "16",
+    "nombre": "Kit de iluminación interior LED",
+    "precio": 49.99,
+    "categoria": "interior",
+    "imagenUrl": "https://i.imgur.com/pD8JhLx.jpg"
+  },
+  {
+    "id": "17",
+    "nombre": "Deflectores de ventana",
+    "precio": 69.95,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/RJvWc9B.jpg"
+  },
+  {
+    "id": "18",
+    "nombre": "Barra estabilizadora",
+    "precio": 159.99,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/sGfLk8Y.jpg"
+  },
+  {
+    "id": "19",
+    "nombre": "Kit de admisión de aire frío",
+    "precio": 229.5,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/wX9Pq4r.jpg"
+  },
+  {
+    "id": "20",
+    "nombre": "Espejos laterales deportivos",
+    "precio": 189.99,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/zT5mK6d.jpg"
+  },
+  {
+    "id": "21",
+    "nombre": "Kit de carrocería completa",
+    "precio": 1299.99,
+    "categoria": "carrocería",
+    "imagenUrl": "https://i.imgur.com/VtHqQ7N.jpg"
+  },
+  {
+    "id": "22",
+    "nombre": "Sistema de escape completo",
+    "precio": 899.5,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/YbJkLmR.jpg"
+  },
+  {
+    "id": "23",
+    "nombre": "Suspensión neumática",
+    "precio": 2499.99,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/n7PkZ9F.jpg"
+  },
+  {
+    "id": "24",
+    "nombre": "Llantas de aleación 19\"",
+    "precio": 1299,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/Ph4Gq2S.jpg"
+  },
+  {
+    "id": "25",
+    "nombre": "Kit de turbocompresor",
+    "precio": 1999.95,
+    "categoria": "pieza",
+    "imagenUrl": "https://i.imgur.com/mK9Xw6T.jpg"
+  }
+]
