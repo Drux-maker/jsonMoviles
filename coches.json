@@ -1,0 +1,252 @@
+[
+  {
+    "marca": "Audi",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2019_Audi_A1_Sport_1.0_TFSI_S-line_%2842118281424%29.jpg/1200px-2019_Audi_A1_Sport_1.0_TFSI_S-line_%2842118281424%29.jpg",
+    "nombre": "A1"
+  },
+  {
+    "marca": "Audi",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2020_Audi_A3_Sport_35_TFSI_S-line_1.0_Front.jpg/1200px-2020_Audi_A3_Sport_35_TFSI_S-line_1.0_Front.jpg",
+    "nombre": "A3"
+  },
+  {
+    "marca": "Audi",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Audi_A4_35_TFSI_2.0_%2848550440127%29.jpg/1200px-2019_Audi_A4_35_TFSI_2.0_%2848550440127%29.jpg",
+    "nombre": "A4"
+  },
+  {
+    "marca": "Audi",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Audi_A5_Sportback_2.0_TFSI_quattro_S-line_%2841235617271%29.jpg/1200px-2018_Audi_A5_Sportback_2.0_TFSI_quattro_S-line_%2841235617271%29.jpg",
+    "nombre": "A5"
+  },
+  {
+    "marca": "Audi",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2020_Audi_A6_Avant_45_TFSI_quattro_S_line_3.0.jpg/1200px-2020_Audi_A6_Avant_45_TFSI_quattro_S_line_3.0.jpg",
+    "nombre": "A6"
+  },
+  {
+    "marca": "BMW",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2019_BMW_118i_MSport_1.5_Front.jpg/1200px-2019_BMW_118i_MSport_1.5_Front.jpg",
+    "nombre": "Serie 1"
+  },
+  {
+    "marca": "BMW",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2019_BMW_218i_Gran_Coupe_1.5.jpg/1200px-2019_BMW_218i_Gran_Coupe_1.5.jpg",
+    "nombre": "Serie 2"
+  },
+  {
+    "marca": "BMW",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2019_BMW_330e_M_Sport_2.0.jpg/1200px-2019_BMW_330e_M_Sport_2.0.jpg",
+    "nombre": "Serie 3"
+  },
+  {
+    "marca": "BMW",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/2019_BMW_420i_Gran_Coupe_M_Sport_2.0.jpg/1200px-2019_BMW_420i_Gran_Coupe_M_Sport_2.0.jpg",
+    "nombre": "Serie 4"
+  },
+  {
+    "marca": "BMW",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2020_BMW_520d_M_Sport_2.0.jpg/1200px-2020_BMW_520d_M_Sport_2.0.jpg",
+    "nombre": "Serie 5"
+  },
+  {
+    "marca": "Lamborghini",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lamborghini_Aventador_LP700-4_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg/1200px-Lamborghini_Aventador_LP700-4_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg",
+    "nombre": "Aventador"
+  },
+  {
+    "marca": "Lamborghini",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lamborghini_Huracan_Performante_%2844444444444%29.jpg/1200px-Lamborghini_Huracan_Performante_%2844444444444%29.jpg",
+    "nombre": "Huracan"
+  },
+  {
+    "marca": "Lamborghini",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lamborghini_Urus_Genf_2018_1Y7A5562.jpg/1200px-Lamborghini_Urus_Genf_2018_1Y7A5562.jpg",
+    "nombre": "Urus"
+  },
+  {
+    "marca": "Lamborghini",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lamborghini_Gallardo_LP550-2_Valentino_Baloni_%2844444444444%29.jpg/1200px-Lamborghini_Gallardo_LP550-2_Valentino_Baloni_%2844444444444%29.jpg",
+    "nombre": "Gallardo"
+  },
+  {
+    "marca": "Lamborghini",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lamborghini_Revent%C3%B3n_2009_front_left.jpg/1200px-Lamborghini_Revent%C3%B3n_2009_front_left.jpg",
+    "nombre": "Reventon"
+  },
+  {
+    "marca": "Peugeot",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Peugeot_208_%28second_generation%29_IMG_4207.jpg/1200px-Peugeot_208_%28second_generation%29_IMG_4207.jpg",
+    "nombre": "208"
+  },
+  {
+    "marca": "Peugeot",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Peugeot_2008_II_IMG_4211.jpg/1200px-Peugeot_2008_II_IMG_4211.jpg",
+    "nombre": "2008"
+  },
+  {
+    "marca": "Peugeot",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Peugeot_308_III_IMG_4213.jpg/1200px-Peugeot_308_III_IMG_4213.jpg",
+    "nombre": "308"
+  },
+  {
+    "marca": "Peugeot",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Peugeot_3008_II_IMG_4215.jpg/1200px-Peugeot_3008_II_IMG_4215.jpg",
+    "nombre": "3008"
+  },
+  {
+    "marca": "Peugeot",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Peugeot_508_II_IMG_4217.jpg/1200px-Peugeot_508_II_IMG_4217.jpg",
+    "nombre": "508"
+  },
+  {
+    "marca": "Porsche",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Porsche_911_Carrera_4S_%29992%29_IMG_4231.jpg/1200px-Porsche_911_Carrera_4S_%29992%29_IMG_4231.jpg",
+    "nombre": "911"
+  },
+  {
+    "marca": "Porsche",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Porsche_Cayenne_%28III%29_IMG_4233.jpg/1200px-Porsche_Cayenne_%28III%29_IMG_4233.jpg",
+    "nombre": "Cayenne"
+  },
+  {
+    "marca": "Porsche",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Porsche_Macan_IMG_4235.jpg/1200px-Porsche_Macan_IMG_4235.jpg",
+    "nombre": "Macan"
+  },
+  {
+    "marca": "Porsche",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Porsche_Panamera_II_IMG_4237.jpg/1200px-Porsche_Panamera_II_IMG_4237.jpg",
+    "nombre": "Panamera"
+  },
+  {
+    "marca": "Porsche",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Porsche_Taycan_Turbo_S_IMG_4239.jpg/1200px-Porsche_Taycan_Turbo_S_IMG_4239.jpg",
+    "nombre": "Taycan"
+  },
+  {
+    "marca": "Volkswagen",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VW_Golf_8_1.5_eTSI_Life_IMG_4251.jpg/1200px-VW_Golf_8_1.5_eTSI_Life_IMG_4251.jpg",
+    "nombre": "Golf"
+  },
+  {
+    "marca": "Volkswagen",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/VW_Polo_6_1.0_TSI_IMG_4253.jpg/1200px-VW_Polo_6_1.0_TSI_IMG_4253.jpg",
+    "nombre": "Polo"
+  },
+  {
+    "marca": "Volkswagen",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/VW_Passat_B8_2.0_TDI_IMG_4255.jpg/1200px-VW_Passat_B8_2.0_TDI_IMG_4255.jpg",
+    "nombre": "Passat"
+  },
+  {
+    "marca": "Volkswagen",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VW_Tiguan_II_2.0_TDI_IMG_4257.jpg/1200px-VW_Tiguan_II_2.0_TDI_IMG_4257.jpg",
+    "nombre": "Tiguan"
+  },
+  {
+    "marca": "Volkswagen",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/VW_Touareg_III_3.0_TDI_IMG_4259.jpg/1200px-VW_Touareg_III_3.0_TDI_IMG_4259.jpg",
+    "nombre": "Touareg"
+  },
+  {
+    "marca": "Mercedes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mercedes-Benz_A_250_AMG_Line_%28W177%29_IMG_4271.jpg/1200px-Mercedes-Benz_A_250_AMG_Line_%28W177%29_IMG_4271.jpg",
+    "nombre": "Clase A"
+  },
+  {
+    "marca": "Mercedes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mercedes-Benz_B_250_e_AMG_Line_%28W247%29_IMG_4273.jpg/1200px-Mercedes-Benz_B_250_e_AMG_Line_%28W247%29_IMG_4273.jpg",
+    "nombre": "Clase B"
+  },
+  {
+    "marca": "Mercedes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Mercedes-Benz_C_220_d_AMG_Line_%28W205%29_IMG_4275.jpg/1200px-Mercedes-Benz_C_220_d_AMG_Line_%28W205%29_IMG_4275.jpg",
+    "nombre": "Clase C"
+  },
+  {
+    "marca": "Mercedes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercedes-Benz_E_220_d_AMG_Line_%28W213%29_IMG_4277.jpg/1200px-Mercedes-Benz_E_220_d_AMG_Line_%28W213%29_IMG_4277.jpg",
+    "nombre": "Clase E"
+  },
+  {
+    "marca": "Mercedes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mercedes-Benz_GLA_250_AMG_Line_%28H247%29_IMG_4279.jpg/1200px-Mercedes-Benz_GLA_250_AMG_Line_%28H247%29_IMG_4279.jpg",
+    "nombre": "GLA"
+  },
+  {
+    "marca": "Ford",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ford_Fiesta_ST-Line_1.0_EcoBoost_%28MK8%29_IMG_4291.jpg/1200px-Ford_Fiesta_ST-Line_1.0_EcoBoost_%28MK8%29_IMG_4291.jpg",
+    "nombre": "Fiesta"
+  },
+  {
+    "marca": "Ford",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ford_Focus_ST-Line_1.0_EcoBoost_%28MK4%29_IMG_4293.jpg/1200px-Ford_Focus_ST-Line_1.0_EcoBoost_%28MK4%29_IMG_4293.jpg",
+    "nombre": "Focus"
+  },
+  {
+    "marca": "Ford",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ford_Kuga_ST-Line_2.5_Duratorq_%28MK3%29_IMG_4295.jpg/1200px-Ford_Kuga_ST-Line_2.5_Duratorq_%28MK3%29_IMG_4295.jpg",
+    "nombre": "Kuga"
+  },
+  {
+    "marca": "Ford",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ford_Mondeo_Titanium_2.0_TDCi_%28MK5%29_IMG_4297.jpg/1200px-Ford_Mondeo_Titanium_2.0_TDCi_%28MK5%29_IMG_4297.jpg",
+    "nombre": "Mondeo"
+  },
+  {
+    "marca": "Ford",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ford_S-MAX_Titanium_2.0_TDCi_%28MK2%29_IMG_4299.jpg/1200px-Ford_S-MAX_Titanium_2.0_TDCi_%28MK2%29_IMG_4299.jpg",
+    "nombre": "S-MAX"
+  },
+  {
+    "marca": "Toyota",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Toyota_Yaris_Design_1.5_Hybrid_%28XP210%29_IMG_4311.jpg/1200px-Toyota_Yaris_Design_1.5_Hybrid_%28XP210%29_IMG_4311.jpg",
+    "nombre": "Yaris"
+  },
+  {
+    "marca": "Toyota",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Toyota_Corolla_Design_1.8_Hybrid_%28E210%29_IMG_4313.jpg/1200px-Toyota_Corolla_Design_1.8_Hybrid_%28E210%29_IMG_4313.jpg",
+    "nombre": "Corolla"
+  },
+  {
+    "marca": "Toyota",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Toyota_C-HR_Design_1.8_Hybrid_%28XG10%29_IMG_4315.jpg/1200px-Toyota_C-HR_Design_1.8_Hybrid_%28XG10%29_IMG_4315.jpg",
+    "nombre": "C-HR"
+  },
+  {
+    "marca": "Toyota",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Toyota_RAV4_Design_2.5_Hybrid_%28XA50%29_IMG_4317.jpg/1200px-Toyota_RAV4_Design_2.5_Hybrid_%28XA50%29_IMG_4317.jpg",
+    "nombre": "RAV4"
+  },
+  {
+    "marca": "Toyota",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Toyota_Camry_Design_2.5_Hybrid_%28XV70%29_IMG_4319.jpg/1200px-Toyota_Camry_Design_2.5_Hybrid_%28XV70%29_IMG_4319.jpg",
+    "nombre": "Camry"
+  },
+  {
+    "marca": "Renault",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Renault_Clio_IV_Intens_1.0_TCe_%28BHJK%29_IMG_4331.jpg/1200px-Renault_Clio_IV_Intens_1.0_TCe_%28BHJK%29_IMG_4331.jpg",
+    "nombre": "Clio"
+  },
+  {
+    "marca": "Renault",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Renault_M%C3%A9gane_IV_GT_1.6_TCe_%28K9K%29_IMG_4333.jpg/1200px-Renault_M%C3%A9gane_IV_GT_1.6_TCe_%28K9K%29_IMG_4333.jpg",
+    "nombre": "Megane"
+  },
+  {
+    "marca": "Renault",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Renault_Captur_II_Intens_1.3_TCe_%28H5Ht%29_IMG_4335.jpg/1200px-Renault_Captur_II_Intens_1.3_TCe_%28H5Ht%29_IMG_4335.jpg",
+    "nombre": "Captur"
+  },
+  {
+    "marca": "Renault",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Renault_Kadjar_Intens_1.3_TCe_%28H5Ht%29_IMG_4337.jpg/1200px-Renault_Kadjar_Intens_1.3_TCe_%28H5Ht%29_IMG_4337.jpg",
+    "nombre": "Kadjar"
+  },
+  {
+    "marca": "Renault",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Renault_Talisman_GT_1.6_TCe_%28H5Ft%29_IMG_4339.jpg/1200px-Renault_Talisman_GT_1.6_TCe_%28H5Ft%29_IMG_4339.jpg",
+    "nombre": "Talisman"
+  }
+]
