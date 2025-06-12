@@ -4,14 +4,14 @@
     "nombre": "Escape deportivo",
     "precio": 129.99,
     "categoria": "pieza",
-    "imagenUrl": "https://i.imgur.com/UZC6LwY.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/escape.png"
   },
   {
     "id": "2",
     "nombre": "Suspensión baja",
     "precio": 299.5,
     "categoria": "pieza",
-    "imagenUrl": "https://i.imgur.com/nVKc3NQ.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/suspension.png"
   },
   {
     "id": "3",
@@ -60,7 +60,7 @@
     "nombre": "Volante deportivo",
     "precio": 249.99,
     "categoria": "interior",
-    "imagenUrl": "https://i.imgur.com/MnFgB2h.jpg"
+    "imagenUrl": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/volante.png"
   },
   {
     "id": "10",
