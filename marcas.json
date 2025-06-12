@@ -1,32 +1,32 @@
 [
   {
     "id": "audi",
-    "imagen": "https://cdn.freebiesupply.com/logos/thumbs/2x/audi-1-logo.png",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/audi.png",
     "nombre": "Audi"
   },
   {
     "id": "bmw",
-    "imagen": "https://cdn.freebiesupply.com/logos/large/2x/bmw-logo2-logo-png-transparent.png",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/bmw.png",
     "nombre": "BMW"
   },
   {
     "id": "lamborghini",
-    "imagen": "https://cdn.freebiesupply.com/logos/large/2x/lamborghini-logo-png-transparent.png",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/lambo.png",
     "nombre": "Lamborghini"
   },
   {
     "id": "peugeot",
-    "imagen": "https://cdn.freebiesupply.com/logos/large/2x/peugeot-3-logo-png-transparent.png",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/peugeot.png",
     "nombre": "Peugeot"
   },
   {
     "id": "porsche",
-    "imagen": "https://cdn.freebiesupply.com/logos/large/2x/porsche-1-logo-png-transparent.png",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/porsche.png",
     "nombre": "Porsche"
   },
   {
     "id": "volkswagen",
-    "imagen": "https://cdn.freebiesupply.com/logos/large/2x/volkswagen-3-logo-png-transparent.png",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/vw.png",
     "nombre": "Volkswagen"
   },
   {
