@@ -1,22 +1,22 @@
 [
   {
     "marca": "Audi",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2019_Audi_A1_Sport_1.0_TFSI_S-line_%2842118281424%29.jpg/1200px-2019_Audi_A1_Sport_1.0_TFSI_S-line_%2842118281424%29.jpg",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/A1.png",
     "nombre": "A1"
   },
   {
     "marca": "Audi",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2020_Audi_A3_Sport_35_TFSI_S-line_1.0_Front.jpg/1200px-2020_Audi_A3_Sport_35_TFSI_S-line_1.0_Front.jpg",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/audi_a3_8p.png",
     "nombre": "A3"
   },
   {
     "marca": "Audi",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Audi_A4_35_TFSI_2.0_%2848550440127%29.jpg/1200px-2019_Audi_A4_35_TFSI_2.0_%2848550440127%29.jpg",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/A4.png",
     "nombre": "A4"
   },
   {
     "marca": "Audi",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Audi_A5_Sportback_2.0_TFSI_quattro_S-line_%2841235617271%29.jpg/1200px-2018_Audi_A5_Sportback_2.0_TFSI_quattro_S-line_%2841235617271%29.jpg",
+    "imagen": "https://raw.githubusercontent.com/Drux-maker/ImagensPractica/refs/heads/main/A5.jpg",
     "nombre": "A5"
   },
   {
